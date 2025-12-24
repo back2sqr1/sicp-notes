@@ -6,6 +6,7 @@
       {
         "id": "e08b96f550722717",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "79dff96c3a23f50d",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Purpose"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "aad75f0158db6e5c",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "b36dc2ce1ef4cc88",
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "21c509ac219bb318",
@@ -196,11 +198,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "79dff96c3a23f50d",
+  "active": "b36dc2ce1ef4cc88",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Purpose.md",
+    "README.md"
   ]
 }
